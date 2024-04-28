@@ -15,9 +15,10 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Crucifix narwhal street art asymmetrical, humblebrag tote bag pop-up
-            fixie raclette taxidermy craft beer. Brunch bitters synth, VHS
-            crucifix heirloom meggings bicycle rights.
+            The React + Node.js job tracking app allows users to effortlessly add job details
+            and provides insightful statistics to track job search progress. 
+            Features include easy job entry, status tracking, statistics visualization,
+            a centralized dashboard, and responsive design for seamless user experience.
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
